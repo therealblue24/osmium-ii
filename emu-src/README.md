@@ -7,5 +7,5 @@ Osmium-II emulator.
 ## Build
 
 ```sh
-$ make all 
+$ make
 ```
